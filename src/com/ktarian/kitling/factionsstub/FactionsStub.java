@@ -9,7 +9,7 @@ import org.spongepowered.api.text.Texts;
 import org.spongepowered.api.util.event.Subscribe;
 import com.google.inject.Inject;
  
-import com.ktarian.kitling.factions.sponge.command.BaseCommand;
+import com.ktarian.kitling.factionsstub.command.BaseCommand;
  
 @Plugin(id = "factionsstub", name = "Factions Stub", version = "alpha0")
 class FactionsStub {
